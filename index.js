@@ -34,8 +34,10 @@ var defaultConfig = {
   emailKeyPrefix: "",
   forwardMapping: {
     "heewa@heewa.net": [
-      "heewa.b@gmail.com",
-      "heewa.b+2@gmail.com"
+      "heewa.b@gmail.com"
+    ],
+    "heewa@barfchin.com": [
+      "heewa.b@gmail.com"
     ]
   }
 };
